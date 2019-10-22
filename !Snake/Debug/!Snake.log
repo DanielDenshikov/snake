@@ -1,0 +1,17 @@
+﻿  !Snake.cpp
+d:\пользователи\данил\учебные проекты\!snake\!snake\libs.h(14): warning C4005: IDC_HELP: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(10336): note: см. предыдущее определение "IDC_HELP"
+d:\пользователи\данил\учебные проекты\!snake\!snake\!snake.cpp(373): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\пользователи\данил\учебные проекты\!snake\!snake\!snake.cpp(491): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\пользователи\данил\учебные проекты\!snake\!snake\!snake.cpp(468): warning C4101: dis: неиспользованная локальная переменная
+  CBot.cpp
+d:\пользователи\данил\учебные проекты\!snake\!snake\libs.h(14): warning C4005: IDC_HELP: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(10336): note: см. предыдущее определение "IDC_HELP"
+d:\пользователи\данил\учебные проекты\!snake\!snake\cbot.cpp(133): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\пользователи\данил\учебные проекты\!snake\!snake\cbot.cpp(150): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\пользователи\данил\учебные проекты\!snake\!snake\cbot.cpp(171): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\пользователи\данил\учебные проекты\!snake\!snake\cbot.cpp(188): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\пользователи\данил\учебные проекты\!snake\!snake\cbot.cpp(337): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MapEditor.cpp
+  Создание кода...
+  !Snake.vcxproj -> D:\Пользователи\Данил\Учебные проекты\!Snake\Debug\!Snake.exe
